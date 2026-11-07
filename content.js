@@ -6,9 +6,16 @@ window.KRC_CONTENT = {
   contactEmail: '', // Add an official club email when ready
   stats: [], // Add verified entries like {number:'150+',label:'Community runners'}
   events: [
-    // Add CONFIRMED events, for example:
-    // {title:'Sunday Community Run',date:'2026-12-06',time:'06:00 AM',location:'Khammam',distance:'5K / 10K',image:'assets/event-1.jpg',link:''}
-  ],
+  {
+    title: 'KRC Diwali Long Run 2026',
+    date: '2026-11-08',
+    time: '05:30 AM',
+    location: 'Sardar Patel Stadium, Khammam',
+    distance: '10 KM / 15 KM / 21 KM',
+    image: '',
+    link: ''
+  }
+],
   achievements: [], // {title:'...',description:'...'}
   gallery: [] // {image:'assets/photo.jpg',caption:'...'}
 };
