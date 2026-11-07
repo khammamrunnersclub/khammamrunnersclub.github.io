@@ -12,7 +12,7 @@ window.KRC_CONTENT = {
     time: '05:30 AM',
     location: 'Sardar Patel Stadium, Khammam',
     distance: '10 KM / 15 KM / 21 KM',
-    image: 'image: 'assets/diwali-long-run-2026.png',
+    image: 'assets/diwali-long-run-2026.png',
     link: ''
   }
 ],
