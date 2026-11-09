@@ -17,5 +17,11 @@ window.KRC_CONTENT = {
   }
 ],
   achievements: [], // {title:'...',description:'...'}
-  gallery: [] // {image:'assets/photo.jpg',caption:'...'}
+  gallery: [
+  {
+    image: 'assets/krc-diwali-long-run-2026-group.jpeg',
+    caption: 'KRC Diwali Long Run 2026 — Runners and supporters at Sardar Patel Stadium, Khammam | 8 November 2026'
+  }
+]
+
 };
